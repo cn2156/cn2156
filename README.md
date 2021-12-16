@@ -8,7 +8,7 @@
 - 熟悉React.js、React Router、Redux，熟悉Ant Design
 - 熟悉微信小程序开发、uni-app
 - 熟悉Node.js、Express、Koa
---->
+
 - 熟悉PHP、MySQL、ThinkPHP、Yii、Zend Framework
 - 熟悉SVN、Git
 - 可阅读相关技术的英文文档
@@ -22,7 +22,7 @@
 ## 项目经验
 
 ## 自我评价
-
+--->
 
 
 <!---
