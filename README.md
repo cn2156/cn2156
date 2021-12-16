@@ -1,0 +1,21 @@
+## 技能清单
+
+## 工作经历
+
+## 项目经验
+
+## 自我评价
+
+
+
+<!---
+- 👋 Hi, I’m @cn2156
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+cn2156/cn2156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
