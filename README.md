@@ -3,10 +3,12 @@
 - 熟悉HTML5、CSS3，可构建PC端页面和移动端页面，熟悉前端框架Bootstrap
 - 熟悉JavaScript（ES6+）、jQuery、Axios
 - 熟悉前端构建工具Webpack、Gulp，熟悉CSS预处理器Less、Sass
-- 熟悉Vue.js、Vue Router、Vuex，熟悉ElementUI、Vant<!---、Ant Design of Vue
+- 熟悉Vue.js、Vue Router、Vuex，熟悉ElementUI、Vant
+<!---、Ant Design of Vue
 - 熟悉React.js、React Router、Redux，熟悉Ant Design
 - 熟悉微信小程序开发、uni-app
-- 熟悉Node.js、Express、Koa--->
+- 熟悉Node.js、Express、Koa
+--->
 - 熟悉PHP、MySQL、ThinkPHP、Yii、Zend Framework
 - 熟悉SVN、Git
 - 可阅读相关技术的英文文档
