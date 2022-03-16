@@ -4,6 +4,9 @@
 - 熟悉JavaScript（ES6+）、jQuery、Axios
 - 熟悉前端构建工具Webpack、Gulp，熟悉CSS预处理器Less、Sass
 - 熟悉Vue.js、Vue Router、Vuex，熟悉ElementUI、Vant
+- 熟悉微信小程序开发
+- 了解uni-app
+- 了解Node.js
 <!---、Ant Design of Vue
 - 熟悉React.js、React Router、Redux，熟悉Ant Design
 - 熟悉微信小程序开发、uni-app
@@ -15,7 +18,7 @@
 
 ## 工作经历
 
-- 上海xx网络科技有限公司						职位：前端切图						2021.06 - 2021.09
+- 上海xx网络科技有限公司						职位：Web前端						2021.06 - 2021.09
 - 吉林省xx信息技术有限公司						职位：PHP程序开发 					2017.06 - 2019.04
 - 吉林市xxxx网络有限公司						职位：PHP程序开发 					2016.05 - 2017.06
 
